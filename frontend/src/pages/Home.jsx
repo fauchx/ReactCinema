@@ -1,7 +1,8 @@
+
 export default function Home(){
-    return(
-        <>
-        <h2>Estoy en home</h2>
-        </>
-    )
+   return(
+    <>
+    <h2>HOME</h2>
+    </>
+   )
 }
